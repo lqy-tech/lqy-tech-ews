@@ -14,3 +14,8 @@ URL：
 - outlook官网：https://outlook.live.com/mail/0/junkemail/
 - 基于Javamail构建邮件客户端的简单实现：https://www.jianshu.com/p/92199647152a
 - EWS（Exchange Web services）时区问题解决：https://www.it610.com/article/1297515883102543872.htm
+
+### token:
+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
+修改现有项目的url：
+git remote set-url origin  https://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@github.com/lqy-tech/lqy-tech-ews.git/
